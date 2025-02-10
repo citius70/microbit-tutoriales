@@ -4,6 +4,7 @@
 Tutoriales:
 
 * [Tutorial 1](tutorial1.md)
+* [link](https://makecode.microbit.org/#tutorial:github:citius70/microbit-tutoriales/tutorial1)
 
 ## Usar como extensión
 
