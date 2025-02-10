@@ -1,7 +1,7 @@
 
 > Abra esta pagina en [https://citius70.github.io/microbit-tutoriales/](https://citius70.github.io/microbit-tutoriales/)
 
-Tutoriales:
+Tutorial:
 
 * [Tutorial 1](tutorial1.md)
 * [link](https://makecode.microbit.org/#tutorial:github:citius70/microbit-tutoriales/tutorial1)
