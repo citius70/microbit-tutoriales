@@ -5,7 +5,7 @@ Tutoriales:
 
 * [Tutorial 1](tutorial1.md)
 * [link](https://makecode.microbit.org/#tutorial:github:citius70/microbit-tutoriales/tutorial1)
-
+* [Tutorial 2](tutorial2.md)
 ## Usar como extensión
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
