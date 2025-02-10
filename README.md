@@ -3,7 +3,7 @@
 
 Tutoriales:
 
-* [Tutorial 1](microbit-tutoriales/tutorial1.md)
+* [Tutorial 1](/microbit-tutoriales/tutorial1.md)
 
 ## Usar como extensión
 
